@@ -52,4 +52,6 @@ button {
 }
 .todoText {
   flex: 1;
+  max-width: 75%;
+  word-wrap: break-word;
 }
